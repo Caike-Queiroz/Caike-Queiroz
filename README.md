@@ -1,8 +1,8 @@
 ## Olá, tudo bem ? 👨‍💻
 <div style="display: inline_block">
   - 🧙‍ Meu nome é Caike Rodrigues Queiroz <br>
-  - 🎂 Eu tenho 17 anos de idade <br>
-  - 👨‍🎓 Atualmente indo para o 2° semestre de Análise e Desenvolvimento de Sistemas <br>
+  - 🎂 Eu tenho 18 anos de idade <br>
+  - 👨‍🎓 Atualmente estou no 2° semestre de Análise e Desenvolvimento de Sistemas <br>
   - 📚 Já estudei/estudando as seguintes tecnologias: <br><br>
   <div align="center">
     <img align="center" alt="Caike-QueirozHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
