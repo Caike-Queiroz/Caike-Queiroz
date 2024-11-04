@@ -4,16 +4,22 @@
   - 🎂 Eu tenho 20 anos de idade <br>
   - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
   - 📚 Já estudei/estudando as seguintes tecnologias: <br><br>
-  <div align="center">
-    <img align="center" alt="Caike-QueirozHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Caike-QueirozCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Caike-Queiroznodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Caike-Queirozgithub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-    <img align="center" alt="Caike-Queirozgit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></div>
+    <div align="center">
+      <img align="center" alt="Caike-QueirozHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <!-- HTML -->
+      <img align="center" alt="Caike-QueirozCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <!-- CSS -->
+      <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- Javascript -->
+      <img align="center" alt="Caike-Queiroznodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <!-- NodeJS -->
+      <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <!-- Java -->
+      <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> <!-- Salesforce -->
+      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <!-- React -->
+      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"> <!-- Angular -->
+      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> <!-- Bootstrap -->
+      <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <!-- SASS -->
+      <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <!-- Figma -->
+      <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <!-- VSCODE -->
+      <img align="center" alt="Caike-Queirozgit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> <!-- Git -->
+      <img align="center" alt="Caike-Queirozgithub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> <!-- Github -->
+    </div>
 </div>
 <br>
 <div align="center">
