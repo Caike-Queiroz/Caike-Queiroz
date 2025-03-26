@@ -10,6 +10,7 @@
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- Javascript -->
       <img align="center" alt="Caike-Queiroznodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <!-- NodeJS -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <!-- Java -->
+      <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> <!-- Java -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> <!-- Salesforce -->
       <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <!-- React -->
       <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"> <!-- Angular -->
