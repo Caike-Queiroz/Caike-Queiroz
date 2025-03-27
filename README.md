@@ -3,6 +3,7 @@
   - 🧙‍ Meu nome é Caike Rodrigues Queiroz <br>
   - 🎂 Eu tenho 20 anos de idade <br>
   - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
+  - 🎓 Cursando uma Pós em Arquitetura e Desenvolvimento Java pela FIAP <br>
   - 📚 Já estudei/estudando as seguintes tecnologias: <br><br>
     <div align="center">
       <img align="center" alt="Caike-QueirozHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <!-- HTML -->
