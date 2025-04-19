@@ -10,6 +10,16 @@
       <img align="center" alt="Caike-QueirozCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <!-- CSS -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- Javascript -->
       <img align="center" alt="Caike-Queiroznodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <!-- NodeJS -->
+      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <!-- React -->
+      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"> <!-- Angular -->
+      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> <!-- Bootstrap -->
+      <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <!-- SASS -->
+      <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <!-- Figma -->
+      <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <!-- VSCODE -->
+      <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"> <!-- IntelliJ -->
+    </div>
+    <br/>
+    <div align="center">
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <!-- Java -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> <!-- Spring -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg"> <!-- Maven -->
@@ -18,13 +28,6 @@
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <!-- PostgreSQL -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"> <!-- Postman -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> <!-- Salesforce -->
-      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <!-- React -->
-      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"> <!-- Angular -->
-      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> <!-- Bootstrap -->
-      <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <!-- SASS -->
-      <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <!-- Figma -->
-      <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <!-- VSCODE -->
-      <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"> <!-- IntelliJ -->
       <img align="center" alt="Caike-Queirozgit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> <!-- Git -->
       <img align="center" alt="Caike-Queirozgithub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> <!-- Github -->
     </div>
