@@ -26,7 +26,7 @@
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <!-- Docker -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> <!-- MySql -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <!-- PostgreSQL -->
-      <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"> <!-- Postman -->
+      <img align="center" alt="Caike-QueirozPostman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"> <!-- Postman -->
       <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> <!-- Salesforce -->
       <img align="center" alt="Caike-Queirozgit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> <!-- Git -->
       <img align="center" alt="Caike-Queirozgithub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> <!-- Github -->
