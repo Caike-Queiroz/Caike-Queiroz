@@ -16,7 +16,7 @@
       <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <!-- SASS -->
       <img align="center" alt="Caike-QueirozFigma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <!-- Figma -->
       <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <!-- VSCODE -->
-      <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"> <!-- IntelliJ -->
+      <img align="center" alt="Caike-QueirozIntellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"> <!-- IntelliJ -->
     </div>
     <br/>
     <div align="center">
