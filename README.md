@@ -37,7 +37,7 @@
   <a href="https://github.com/Caike-Queiroz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-  <img src="https://duolingo-stats-card.vercel.app/api?username=caike449303" alt="Duolingo Stats"/>
+  <img src="https://duolingo-stats-card.vercel.app/api?username=caike449303&theme=nightowl" alt="Duolingo Stats"/>
 </div>
 <div><br>
   <a href="mailto:caikerodriguesqueiroz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
