@@ -1,7 +1,7 @@
 ## Olá, tudo bem ? 👨‍💻
 <div style="display: inline_block">
   - 🧙‍ Meu nome é Caike Rodrigues Queiroz <br>
-  - 🎂 Eu tenho 20 anos de idade <br>
+  - 🎂 Eu tenho 21 anos de idade <br>
   - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas <br>
   - 🎓 Cursando uma Pós em Arquitetura e Desenvolvimento Java pela FIAP <br>
   - 📚 Já estudei/estudando as seguintes tecnologias: <br><br>
