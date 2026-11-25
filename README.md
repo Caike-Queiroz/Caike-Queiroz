@@ -1,44 +1,112 @@
-## Olá, tudo bem ? 👨‍💻
-<div style="display: inline_block">
-  - 🧙‍ Meu nome é Caike Rodrigues Queiroz <br>
-  - 🎂 Eu tenho 22 anos de idade <br>
-  - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura e Desenvolvimento Java pela FIAP <br>
-  - 📚 Já estudei/estudando as seguintes tecnologias: <br><br>
-    <div align="center">
-      <img align="center" alt="Caike-QueirozHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <!-- HTML -->
-      <img align="center" alt="Caike-QueirozCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <!-- CSS -->
-      <img align="center" alt="Caike-QueirozJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <!-- Javascript -->
-      <img align="center" alt="Caike-QueiroznodeNodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> <!-- NodeJS -->
-      <img align="center" alt="Caike-QueirozReact" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> <!-- React -->
-      <img align="center" alt="Caike-QueirozAngular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"> <!-- Angular -->
-      <img align="center" alt="Caike-QueirozBoostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> <!-- Bootstrap -->
-      <img align="center" alt="Caike-QueirozSass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <!-- SASS -->
-      <img align="center" alt="Caike-QueirozFigma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> <!-- Figma -->
-      <img align="center" alt="Caike-Queirozvscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> <!-- VSCODE -->
-      <img align="center" alt="Caike-QueirozIntellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"> <!-- IntelliJ -->
-    </div>
-    <br/>
-    <div align="center">
-      <img align="center" alt="Caike-QueirozJava" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> <!-- Java -->
-      <img align="center" alt="Caike-QueirozSpring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> <!-- Spring -->
-      <img align="center" alt="Caike-QueirozMaven" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg"> <!-- Maven -->
-      <img align="center" alt="Caike-QueirozDocker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> <!-- Docker -->
-      <img align="center" alt="Caike-QueirozMySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> <!-- MySql -->
-      <img align="center" alt="Caike-QueirozPosgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> <!-- PostgreSQL -->
-      <img align="center" alt="Caike-QueirozPostman" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"> <!-- Postman -->
-      <img align="center" alt="Caike-QueirozSalesforce" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"> <!-- Salesforce -->
-      <img align="center" alt="Caike-Queirozgit" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> <!-- Git -->
-      <img align="center" alt="Caike-Queirozgithub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> <!-- Github -->
-    </div>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/Caike-Queiroz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&layout=compact&langs_count=7&theme=discord_old_blurple"/>
-  <!-- <img src="https://duolingo-stats-card.vercel.app/api?username=caike449303&theme=nightowl" alt="Duolingo Stats"/> -->
-</div>
-<div><br>
-  <a href="mailto:caikerodriguesqueiroz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-  <a href="https://www.linkedin.com/in/caike-rodrigues-queiroz-1a36ba222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+<details open>
+<summary>🇺🇸 <strong>English</strong></summary>
+
+### Hi there, I'm Caike Rodrigues Queiroz! 👋
+
+**Salesforce Developer | System Integration | Backend Development**
+
+I'm a software developer focused on Salesforce solutions, enterprise system integrations, business process automation, and backend development.
+
+I have professional experience with Apex, Lightning Web Components, REST and SOAP APIs, as well as backend development with Rust and Java.
+
+🎓 Degree in Systems Analysis and Development — Mackenzie.
+
+🎓 Postgraduate specialization in Java Architecture and Development — FIAP.
+
+</details>
+
+<details>
+<summary>🇧🇷 <strong>Português (Brasil)</strong></summary>
+
+### Olá, sou Caike Rodrigues Queiroz! 👋
+
+**Desenvolvedor Salesforce | Integração de Sistemas | Desenvolvimento Back-end**
+
+Sou desenvolvedor de software com foco em soluções Salesforce, integrações de sistemas corporativos, automação de processos de negócio e desenvolvimento back-end.
+
+Possuo experiência profissional com Apex, Lightning Web Components, APIs REST e SOAP, além de desenvolvimento back-end com Rust e Java.
+
+🎓 Graduado em Análise e Desenvolvimento de Sistemas — Mackenzie.
+
+🎓 Pós-graduado em Arquitetura e Desenvolvimento Java — FIAP.
+
+</details>
+
+## Technologies & Tools
+
+<h3 align="center">Salesforce &amp; Integrations</h3>
+<p align="center">
+  <img alt="Salesforce" title="Salesforce" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</p>
+<p align="center">Apex · LWC · SOQL · Salesforce Flow · REST API · SOAP · JavaScript</p>
+
+<h3 align="center">Backend &amp; Databases</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&amp;theme=dark">
+    <img width="36" height="36" alt="Rust" title="Rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+  </picture>
+  &nbsp;
+  <img alt="Java" title="Java" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  &nbsp;
+  <img alt="Spring Boot" title="Spring Boot" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  &nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  &nbsp;
+  <img alt="MySQL" title="MySQL" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</p>
+<p align="center">Rust · Java · Spring Boot · PostgreSQL · MySQL · SQL</p>
+
+<h3 align="center">Development Tools</h3>
+<p align="center">
+  <img alt="Git" title="Git" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&amp;theme=dark">
+    <img width="36" height="36" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </picture>
+  &nbsp;
+  <img alt="GitLab" title="GitLab" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  &nbsp;
+  <img alt="Docker" title="Docker" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  &nbsp;
+  <img alt="Postman" title="Postman" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  &nbsp;
+  <img alt="VS Code" title="VS Code" width="36" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</p>
+<p align="center">Git · GitHub · GitLab · Docker · Postman · VS Code · CI/CD</p>
+
+<h3 align="center">AI-Assisted Development</h3>
+<p align="center">
+  <img alt="Codex" title="Codex" width="36" height="36" src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg">
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/openai.png">
+    <img width="36" height="36" alt="ChatGPT" title="ChatGPT" src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/light/openai.png">
+  </picture>
+</p>
+<p align="center">Codex · ChatGPT</p>
+
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;title_color=79c0ff&amp;icon_color=79c0ff&amp;border_color=30363d&amp;card_width=320">
+    <img height="155" alt="GitHub Stats" title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&amp;show_icons=true&amp;include_all_commits=true&amp;theme=default&amp;title_color=0969da&amp;icon_color=0969da&amp;border_color=d0d7de&amp;card_width=320">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&amp;layout=compact&amp;langs_count=7&amp;theme=github_dark&amp;title_color=79c0ff&amp;border_color=30363d&amp;card_width=280">
+    <img height="155" alt="Most Used Languages" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&amp;layout=compact&amp;langs_count=7&amp;theme=default&amp;title_color=0969da&amp;border_color=d0d7de&amp;card_width=280">
+  </picture>
+</p>
+
+<p align="center"><em>Public repository statistics. Private contributions are reflected separately in the GitHub contribution graph.</em></p>
+
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/caikequeiroz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="mailto:caikerodriguesqueiroz@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+</p>
