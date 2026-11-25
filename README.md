@@ -93,16 +93,21 @@ Possuo experiência profissional com Apex, Lightning Web Components, APIs REST e
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;title_color=79c0ff&amp;icon_color=79c0ff&amp;border_color=30363d&amp;card_width=320">
-    <img height="155" alt="GitHub Stats" title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&amp;show_icons=true&amp;include_all_commits=true&amp;theme=default&amp;title_color=0969da&amp;icon_color=0969da&amp;border_color=d0d7de&amp;card_width=320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&amp;show_icons=true&amp;include_all_commits=true&amp;theme=github_dark&amp;title_color=79c0ff&amp;icon_color=79c0ff&amp;border_color=30363d&amp;card_width=350">
+    <img height="180" alt="GitHub Stats" title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caike-Queiroz&amp;show_icons=true&amp;include_all_commits=true&amp;theme=default&amp;title_color=0969da&amp;icon_color=0969da&amp;border_color=d0d7de&amp;card_width=350">
   </picture>
+  &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&amp;layout=compact&amp;langs_count=7&amp;theme=github_dark&amp;title_color=79c0ff&amp;border_color=30363d&amp;card_width=280">
-    <img height="155" alt="Most Used Languages" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&amp;layout=compact&amp;langs_count=7&amp;theme=default&amp;title_color=0969da&amp;border_color=d0d7de&amp;card_width=280">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&amp;layout=compact&amp;langs_count=7&amp;theme=github_dark&amp;title_color=79c0ff&amp;border_color=30363d&amp;card_width=300">
+    <img height="180" alt="Most Used Languages" title="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caike-Queiroz&amp;layout=compact&amp;langs_count=7&amp;theme=default&amp;title_color=0969da&amp;border_color=d0d7de&amp;card_width=300">
   </picture>
 </p>
 
-<p align="center"><em>Public repository statistics. Private contributions are reflected separately in the GitHub contribution graph.</em></p>
+<p align="center">
+  <em>🇺🇸 Public repository statistics. Private contributions are reflected separately in the GitHub contribution graph.</em>
+  <br>
+  <em>🇧🇷 Estatísticas dos repositórios públicos. As contribuições privadas são contabilizadas separadamente no gráfico de contribuições do GitHub.</em>
+</p>
 
 ## Connect with me
 
